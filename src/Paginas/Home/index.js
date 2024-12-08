@@ -1,12 +1,14 @@
-import Cards from '../../Componentes/Cards';
-import Quadrosbranco from '../../Componentes/Quadrosbranco/Quadrosbranco';
-import Quadrosvermelho from '../../Componentes/Quadrosvermelho/Quadrosvermelho';
-
+import Sessao1 from './Sessao1';
+import Sessao2 from './Sessao2';
+import Sessao3 from './Sessao3';
+import Sessao4 from './Sessao4';
 function Home() {
   return (
     <>
-      <Quadrosbranco />
-      <Quadrosvermelho />
+      <Sessao1></Sessao1>
+      <Sessao2></Sessao2>
+      <Sessao3></Sessao3>
+      <Sessao4></Sessao4>
     </>
   );
 }

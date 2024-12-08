@@ -6,16 +6,16 @@ function Registro() {
   return (
     <>
       <section className="d-flex align-items-center justify-content-center container">
-        <div className="bg-white d-flex h-50 rounded-5">
-          <div className="p-5 d-flex align-items-center flex-column">
-            <h1 className="text-danger fw-bolder">Entrar para o clube</h1>
+        <div className="bg-white d-flex w-75 h-50 rounded-5 row">
+          <div className="p-5 d-flex align-items-center justify-content-center flex-column col">
+            <h1 className="text-danger fw-bolder">Criar conta!</h1>
             <img className="w-50" src="/assets/a2.png"></img>
-            <h3 className="fw-bold">texto texto texto text texto</h3>
+
             <a className="text-danger" href="/login">
               Já tem uma conta entre agora!
             </a>
           </div>
-          <div className="bg-danger p-5 rounded-5">
+          <div className="bg-danger p-5 rounded-5 col">
             <h1 className="fw-bolder text-white mb-3">Registre-se</h1>
 
             <div className="d-flex align-items-center gap-3">

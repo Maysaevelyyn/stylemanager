@@ -10,3 +10,45 @@ section {
   justify-content: center;
   flex-direction: column;
 }
+
+h1 {
+  font-size: 3.5rem !important;
+  font-weight: bold;
+  color: #12273d;
+}
+h2 {
+  font-size: 3rem !important;
+  font-weight: bold;
+  color: #b92323;
+}
+
+h3 {
+  font-size: 2.5rem !important;
+  font-weight: bold;
+  color: #12273d;
+}
+
+.custom-border {
+  border: 3px solid #b92323;
+  border-radius: 15px;
+  padding: 5px; /* Para criar espaço interno */
+}
+p {
+  font-size: 1.2rem;
+}
+
+li {
+  list-style: none !important;
+}
+
+.img-sec1 {
+  z-index: -1;
+}
+
+.z-dash {
+  z-index: -1000 !important;
+}
+
+.z-header {
+  z-index: 1000;
+}
