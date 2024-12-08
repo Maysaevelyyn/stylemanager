@@ -5,8 +5,8 @@ import Quadrosvermelho from '../../Componentes/Quadrosvermelho/Quadrosvermelho';
 function Home() {
   return (
     <>
-      <Quadrosbranco/>
-      <Quadrosvermelho/>
+      <Quadrosbranco />
+      <Quadrosvermelho />
     </>
   );
 }

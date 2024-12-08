@@ -12,7 +12,7 @@ function Login() {
             <img className="w-50" src="/assets/a2.png"></img>
             <h3 className="fw-bold">texto texto texto placeholder</h3>
             <a className="text-danger" href="/registro">
-              Criar uma conta agora!
+              Criar uma conta agora
             </a>
           </div>
           <div className="bg-danger p-5 rounded-5 d-flex flex-column justify-content-between">
