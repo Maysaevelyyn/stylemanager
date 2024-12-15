@@ -10,7 +10,7 @@ function Cabecalho() {
           <a className="navbar-brand" href="/">
             <img
               style={{ width: '80px' }}
-              src="/assets/a2.png"
+              src="/assets/logo-sm.jpeg"
               alt="logo"
             ></img>
           </a>
